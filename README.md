@@ -1,2 +1,3 @@
 # Repaso-Python
 Esto es un repaso de programación en Python
+Python es un lenguaje de programación interpretado, de alto nivel y de propósito general, conocido por su sintaxis clara y sencilla que facilita el aprendizaje y la escritura de código. Fue creado a finales de los años ochenta por Guido van Rossum y desde entonces ha ganado popularidad en diversos campos como desarrollo web, ciencia de datos, inteligencia artificial, automatización y más. Python destaca por su gran comunidad, amplia biblioteca estándar y soporte multiplataforma, lo que lo convierte en una excelente opción tanto para principiantes como para desarrolladores experimentados.
